@@ -11,7 +11,7 @@ VADER is a lexicon- and rule-based sentiment analysis tool that is specifically 
 ## Program:
 Developed By : **KERSOAN P**
 </br>
-Register No. : **212221230050**
+Register No  : **212221230050**
 ```py
 ```python3
 import pandas as pd
