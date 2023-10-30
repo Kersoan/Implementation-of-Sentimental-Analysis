@@ -9,6 +9,10 @@ The process of sentiment analysis using VADER model can be described as follows:
 
 VADER is a lexicon- and rule-based sentiment analysis tool that is specifically designed to work with social media text. It is a free and open-source tool that can be used to analyze text in a variety of languages. VADER is a popular choice for sentiment analysis because it is easy to use and produces accurate results.
 ## Program:
+Developed By : **KERSOAN P**
+</br>
+Register No. : **212221230050**
+```py
 ```python3
 import pandas as pd
 import vaderSentiment as vs
