@@ -13,7 +13,6 @@ Developed By : **KERSOAN P**
 </br>
 Register No  : **212221230050**
 ```py
-```python3
 import pandas as pd
 import vaderSentiment as vs
 
